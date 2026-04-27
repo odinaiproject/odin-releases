@@ -1,7 +1,8 @@
 {
-  "version": "1.1.5",
-  "notes": "v1.1.5 - Personal demo stable. Backend startup fixed, sector technicals, regime gauge, full asset window display, anonymous analytics.",
-  "url": "https://github.com/odinaiproject/odin-releases/releases/download/v1.1.5/Odin-AI-1.1.5-arm64.dmg",
-  "url_x64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.1.5/Odin-AI-1.1.5.dmg",
-  "published_at": "2026-04-26T06:37:01Z"
+  "version": "1.2.9-alpha",
+  "notes": "Portfolio P&L, news filter, daily brief redesign, onboarding tour, crash reporting",
+  "url": "https://github.com/odinaiproject/odin-releases/releases/tag/v1.2.9-alpha",
+  "mac_arm64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.9-alpha/Odin-AI-1.2.9-alpha-arm64.dmg",
+  "mac_x64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.9-alpha/Odin-AI-1.2.9-alpha.dmg",
+  "windows": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.9-alpha/Odin-AI-Setup-1.2.9-alpha.exe"
 }
