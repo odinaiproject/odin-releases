@@ -1,8 +1,8 @@
 {
-  "version": "1.2.13-alpha",
-  "notes": "Terminology updates, compliance language fixes, agent memory, price alerts, update banner",
-  "url": "https://github.com/odinaiproject/odin-releases/releases/tag/v1.2.13-alpha",
-  "mac_arm64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.13-alpha/Odin-AI-1.2.13-alpha-arm64.dmg",
-  "mac_x64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.13-alpha/Odin-AI-1.2.13-alpha.dmg",
-  "windows": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.13-alpha/Odin-AI-Setup-1.2.13-alpha.exe"
+  "version": "1.2.14-alpha",
+  "notes": "Pricing UI, trial system, referral programme, AI offline fallbacks, compliance fixes",
+  "url": "https://github.com/odinaiproject/odin-releases/releases/tag/v1.2.14-alpha",
+  "mac_arm64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.14-alpha/Odin-AI-1.2.14-alpha-arm64.dmg",
+  "mac_x64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.14-alpha/Odin-AI-1.2.14-alpha.dmg",
+  "windows": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.14-alpha/Odin-AI-Setup-1.2.14-alpha.exe"
 }
