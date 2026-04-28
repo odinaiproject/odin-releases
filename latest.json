@@ -1,8 +1,8 @@
 {
-  "version": "1.2.10-alpha",
-  "notes": "Real-time cloud sync, sync-on-resume, sync status UI",
-  "url": "https://github.com/odinaiproject/odin-releases/releases/tag/v1.2.10-alpha",
-  "mac_arm64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.10-alpha/Odin-AI-1.2.10-alpha-arm64.dmg",
-  "mac_x64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.10-alpha/Odin-AI-1.2.10-alpha.dmg",
-  "windows": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.10-alpha/Odin-AI-Setup-1.2.10-alpha.exe"
+  "version": "1.2.11-alpha",
+  "notes": "Real-time sync, portfolio P&L fix, brief redesign, onboarding tour, crash reporting",
+  "url": "https://github.com/odinaiproject/odin-releases/releases/tag/v1.2.11-alpha",
+  "mac_arm64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.11-alpha/Odin-AI-1.2.11-alpha-arm64.dmg",
+  "mac_x64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.11-alpha/Odin-AI-1.2.11-alpha.dmg",
+  "windows": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.11-alpha/Odin-AI-Setup-1.2.11-alpha.exe"
 }
