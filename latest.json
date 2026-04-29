@@ -1,6 +1,6 @@
 {
   "version": "1.2.14-alpha",
-  "notes": "Windows fix, auto key migration, watchlist fix, Supabase pipelines, AI offline fallbacks",
+  "notes": "News fix, Windows UTF-8, auto key migration, all API keys bundled, Supabase pipelines",
   "url": "https://github.com/odinaiproject/odin-releases/releases/tag/v1.2.14-alpha",
   "mac_arm64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.14-alpha/Odin-AI-1.2.14-alpha-arm64.dmg",
   "mac_x64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.14-alpha/Odin-AI-1.2.14-alpha.dmg",
