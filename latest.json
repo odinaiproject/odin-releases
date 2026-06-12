@@ -1,8 +1,1 @@
-{
-  "version": "1.2.14-alpha",
-  "notes": "News fix, Windows UTF-8, auto key migration, all API keys bundled, Supabase pipelines",
-  "url": "https://github.com/odinaiproject/odin-releases/releases/tag/v1.2.14-alpha",
-  "mac_arm64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.14-alpha/Odin-AI-1.2.14-alpha-arm64.dmg",
-  "mac_x64": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.14-alpha/Odin-AI-1.2.14-alpha.dmg",
-  "windows": "https://github.com/odinaiproject/odin-releases/releases/download/v1.2.14-alpha/Odin-AI-Setup-1.2.14-alpha.exe"
-}
+{"version":"1.2.17","notes":"Alpha build v1.2.17","url":"https://github.com/odinaiproject/odin-releases/releases/tag/v1.2.17","mac_arm64":"https://github.com/odinaiproject/odin-releases/releases/download/v1.2.17/Odin-AI-1.2.17-arm64.dmg","mac_x64":"https://github.com/odinaiproject/odin-releases/releases/download/v1.2.17/Odin-AI-1.2.17.dmg","windows":"https://github.com/odinaiproject/odin-releases/releases/download/v1.2.17/Odin-AI-Setup-1.2.17.exe"}
